@@ -12,3 +12,12 @@ git remote add origin https://github.com/sara1621/fcc-universe-db.git
 git commit -m "first commit"
 git add .
 git add .freeCodeCamp/test/.cwd
+git commit -m "first commit"
+git push
+git push --set-upstream origin main
+git push --set-upstream origin main
+git push
+git push --set-upstream origin main
+git push --set-upstream origin main
+git commit -m "first commit"
+git add .
